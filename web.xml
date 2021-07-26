@@ -4,5 +4,6 @@ git has a mutable index called stage
 git tracks changes of files
 niupeng
 5i5j.com
+passwd=123
 creating a new branch is quick and simple
 
